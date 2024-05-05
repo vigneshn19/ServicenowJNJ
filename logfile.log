@@ -1,0 +1,51 @@
+04-15-24 11:41:49 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:22] : The object is created for Homepage
+04-15-24 11:41:49 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:23] : The homepage function is called
+04-15-24 11:41:49 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\homepagechange.py:14] : The URL is launching
+04-15-24 11:41:56 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\homepagechange.py:16] : The URL is launched
+04-15-24 11:41:59 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\homepagechange.py:19] : The title is validated
+04-15-24 11:42:02 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\homepagechange.py:22] : An object is created for home page webelement
+04-15-24 11:42:02 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\homepagechange.py:23] : Checking whether the remind me later prompt is displayed or not
+04-15-24 11:42:02 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\homepagechange.py:25] : The Remind me later button is displayed
+04-15-24 11:42:02 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\homepagechange.py:27] : The Remind me later button is clicked
+04-15-24 11:42:02 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\homepagechange.py:29] : The close button is displayed
+04-15-24 11:42:03 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\homepagechange.py:38] : The itsm link is clicked
+04-15-24 11:42:09 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:27] : The title of the current page is: Iris - Iris
+04-15-24 11:42:13 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:29] : The title of the current page is: SMO CMDB Dashboard views | IRIS ITSM
+04-15-24 11:42:15 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:33] : The workbook is loaded
+04-15-24 11:42:15 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:35] : The ChangeRquest worksheet is loaded
+04-15-24 11:42:15 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:38] : CR total_rows: 2
+04-15-24 11:42:15 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:39] : CR total_columns: 8
+04-15-24 11:42:15 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:41] : The AffectedCI worksheet is loaded
+04-15-24 11:42:15 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:44] : AffectedCI total_rows: 2
+04-15-24 11:42:15 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:45] : AffectedCI total_columns: 4
+04-15-24 11:42:15 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:50] : The object is created for Search page
+04-15-24 11:42:15 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:61] : The search page function is called
+04-15-24 11:42:15 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\searchpagechange.py:17] : An object is created for search page webelement
+04-15-24 11:42:23 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\searchpagechange.py:34] : The change request searched is: CHG000011100377
+04-15-24 11:42:26 PM : WARNING : [C:\Users\VNarasi7\Servicenowautomate\tests\searchpagechange.py:42] : There is no such element exception
+04-15-24 11:42:26 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\searchpagechange.py:44] : Total Number of Retries: 1
+04-15-24 11:42:27 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\searchpagechange.py:46] : The page is refreshed
+04-15-24 11:42:38 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\searchpagechange.py:34] : The change request searched is: CHG000011100377
+04-15-24 11:42:43 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\searchpagechange.py:39] : The exact match is clicked
+04-15-24 11:42:43 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:65] : The object is created for form page
+04-15-24 11:42:43 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:66] : The form page function is called
+04-15-24 11:42:43 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\formpagechange.py:17] : The web element object of form page is created
+04-15-24 11:42:48 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\formpagechange.py:50] : The driver is switched to iframe
+04-15-24 11:42:50 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\formpagechange.py:120] : <class 'str'>
+04-15-24 11:42:50 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\formpagechange.py:122] : The value of new change request is sent: CHG000011100377
+04-15-24 11:42:50 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:72] : The new change request is saved in sheet of the workbook
+04-15-24 11:42:50 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:74] : The object is created for affectedci page 
+04-15-24 11:42:50 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\test_copychange.py:75] : The affectedci function is called 
+04-15-24 11:42:53 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:18] : Affected CI tab is clicked
+04-15-24 11:42:58 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:21] : Affected CI edit button is clicked
+04-15-24 11:43:04 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:29] : The filter is removed: 1
+04-15-24 11:43:06 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:29] : The filter is removed: 2
+04-15-24 11:43:08 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:29] : The filter is removed: 3
+04-15-24 11:43:11 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:31] : All the filters has been removed
+04-15-24 11:43:14 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:36] : All the collected CI is selected
+04-15-24 11:43:14 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:38] : All options of the collected CI is selected
+04-15-24 11:43:18 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:44] : Apart from assignment ci others are removed
+04-15-24 11:43:20 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:47] : remove is clicked
+04-15-24 11:43:22 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:44] : Apart from assignment ci others are removed
+04-15-24 11:43:24 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:47] : remove is clicked
+04-15-24 11:43:30 PM : INFO : [C:\Users\VNarasi7\Servicenowautomate\tests\affectedcipagechange.py:73] : All affected CI has been saved to the collection
